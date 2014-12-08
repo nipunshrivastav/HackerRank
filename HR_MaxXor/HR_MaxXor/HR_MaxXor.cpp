@@ -1,0 +1,52 @@
+// HR_MaxXor.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <map>
+#include <set>
+#include <list>
+#include <stdio.h>
+#include <cmath>
+#include <ctime>
+#include <deque>
+#include <queue>
+#include <stack>
+#include <bitset>
+#include <cstdio>
+#include <limits>
+#include <vector>
+#include <cstdlib>
+#include <numeric>
+#include <sstream>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+/*
+ * Complete the function below.
+ */
+int maxXor(int l, int r) {
+    int max = 0; int temp;
+    for (int i = l; i<r; i++) {
+        for (int j = i+1; j<=r; j++) {
+            temp = i ^ j;
+            if (max < temp) {
+                max = temp;
+            }
+        }
+    }
+    return max;
+}
+
+int main() {
+    int res;
+    int _l;
+    cin >> _l;
+    
+    int _r;
+    cin >> _r;
+    
+    res = maxXor(_l, _r);
+    cout << res;
+    
+    return 0;
+}

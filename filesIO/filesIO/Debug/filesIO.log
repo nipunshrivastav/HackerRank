@@ -1,0 +1,33 @@
+﻿Build started 17-Nov-14 12:59:22 PM.
+     1>Project "C:\Users\Nipun\Documents\Visual Studio 2012\Projects\filesIO\filesIO\filesIO.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\filesIO.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt filesIO.cpp
+         filesIO.cpp
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(36): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(50): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(72): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(123): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(135): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(153): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(161): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(236): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(274): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(313): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(340): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(353): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(365): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(369): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(382): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(393): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(397): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\nipun\documents\visual studio 2012\projects\filesio\filesio\filesio.cpp(410): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nipun\Documents\Visual Studio 2012\Projects\filesIO\Debug\filesIO.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Nipun\Documents\Visual Studio 2012\Projects\filesIO\Debug\filesIO.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Nipun\Documents\Visual Studio 2012\Projects\filesIO\Debug\filesIO.lib" /MACHINE:X86 Debug\filesIO.obj
+         Debug\stdafx.obj
+         filesIO.vcxproj -> C:\Users\Nipun\Documents\Visual Studio 2012\Projects\filesIO\Debug\filesIO.exe
+     1>Done Building Project "C:\Users\Nipun\Documents\Visual Studio 2012\Projects\filesIO\filesIO\filesIO.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.67

@@ -1,0 +1,15 @@
+﻿Build started 03-Dec-14 1:16:00 PM.
+     1>Project "c:\Users\Nipun\documents\visual studio 2012\Projects\HR_ShrlcknGCD\HR_ShrlcknGCD\HR_ShrlcknGCD.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\HR_ShrlcknGCD.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt HR_ShrlcknGCD.cpp
+         HR_ShrlcknGCD.cpp
+     1>c:\users\nipun\documents\visual studio 2012\projects\hr_shrlckngcd\hr_shrlckngcd\hr_shrlckngcd.cpp(20): warning C4101: 'temp2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\nipun\documents\visual studio 2012\Projects\HR_ShrlcknGCD\Debug\HR_ShrlcknGCD.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\nipun\documents\visual studio 2012\Projects\HR_ShrlcknGCD\Debug\HR_ShrlcknGCD.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\nipun\documents\visual studio 2012\Projects\HR_ShrlcknGCD\Debug\HR_ShrlcknGCD.lib" /MACHINE:X86 Debug\HR_ShrlcknGCD.obj
+         Debug\stdafx.obj
+         HR_ShrlcknGCD.vcxproj -> c:\users\nipun\documents\visual studio 2012\Projects\HR_ShrlcknGCD\Debug\HR_ShrlcknGCD.exe
+     1>Done Building Project "c:\Users\Nipun\documents\visual studio 2012\Projects\HR_ShrlcknGCD\HR_ShrlcknGCD\HR_ShrlcknGCD.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.94
